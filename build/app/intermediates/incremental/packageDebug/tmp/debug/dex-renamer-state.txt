@@ -1,0 +1,4 @@
+#Wed Apr 06 21:48:06 UZT 2022
+base.0=/home/farrux/All Lessons/Next_Game_Animation_with_bloc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
