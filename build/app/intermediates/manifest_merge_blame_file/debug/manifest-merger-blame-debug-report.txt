@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/farrux/All Lessons/Next_Game_Animation_with_bloc/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/farrux/All Lessons/Next_Game_Animation_with_bloc/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/farrux/Flutter/Next_Game_Animation_with_bloc/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/farrux/Flutter/Next_Game_Animation_with_bloc/android/app/src/debug/AndroidManifest.xml:6:22-64
 15
 16    <application
 17        android:name="android.app.Application"

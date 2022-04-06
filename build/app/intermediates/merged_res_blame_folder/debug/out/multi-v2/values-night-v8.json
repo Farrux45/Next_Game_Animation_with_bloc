@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/farrux/All Lessons/Next_Game_Animation_with_bloc/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/farrux/Flutter/Next_Game_Animation_with_bloc/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/farrux/All Lessons/Next_Game_Animation_with_bloc/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/farrux/Flutter/Next_Game_Animation_with_bloc/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
